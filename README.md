@@ -6,7 +6,7 @@ This Python driver provides an interface for interacting with the A9G GPS GSM GP
 The driver focuses on allowing users to access GPS locations and utilize GSM capabilities for tasks such as SMS messaging and phone calls. 
 This driver simplifies the integration of the A9G module into various IoT and embedded systems projects.
 
-Connections:
+# Connections:
 
 ![Screenshot 2024-05-07 022653](https://github.com/OmarMohsen9/A9G-GSMGPS-Python-Driver/assets/87346785/9197b948-dafe-4a20-92ca-77c456489165)
 
@@ -15,6 +15,6 @@ This driver should be used the same way AI-Thinker serial tool(SW app for runnin
 
 Inspired by: https://www.instructables.com/A9G-GPS-GPRS-Module-Tutorial-Ai-Thinker-AT-Command/
 
-DataSheet:
+# DataSheet:
 [a9g_gprs-gps-datasheet.pdf](https://github.com/OmarMohsen9/A9G-GSMGPS-Python-Driver/files/15227601/a9g_gprs-gps-datasheet.pdf)
 
